@@ -1,0 +1,14 @@
+D:\Univer\sem6\database\лабы\laba3\laba3\bin\Debug\laba3.dll
+D:\Univer\sem6\database\лабы\laba3\laba3\bin\Debug\laba3.pdb
+D:\Univer\sem6\database\лабы\laba3\laba3\obj\Debug\laba3.dll
+D:\Univer\sem6\database\лабы\laba3\laba3\obj\Debug\laba3.pdb
+D:\Univer\sem6\database\labs\laba3\laba3\bin\Debug\laba3.dll
+D:\Univer\sem6\database\labs\laba3\laba3\bin\Debug\laba3.pdb
+D:\Univer\sem6\database\labs\laba3\laba3\obj\Debug\laba3.csprojAssemblyReference.cache
+D:\Univer\sem6\database\labs\laba3\laba3\obj\Debug\laba3.dll
+D:\Univer\sem6\database\labs\laba3\laba3\obj\Debug\laba3.pdb
+D:\studing\6 sem\BD\labs\laba3\laba3\bin\Debug\laba3.dll
+D:\studing\6 sem\BD\labs\laba3\laba3\bin\Debug\laba3.pdb
+D:\studing\6 sem\BD\labs\laba3\laba3\obj\Debug\laba3.dll
+D:\studing\6 sem\BD\labs\laba3\laba3\obj\Debug\laba3.pdb
+D:\studing\6 sem\BD\labs\laba3\laba3\obj\Debug\laba3.csprojAssemblyReference.cache

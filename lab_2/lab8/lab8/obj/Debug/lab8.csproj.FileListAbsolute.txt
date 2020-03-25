@@ -1,0 +1,62 @@
+S:\Учеба\4 семестр\ООП\лабы\LP_8ADO.NET\lab8\lab8\bin\Debug\lab8.exe.config
+S:\Учеба\4 семестр\ООП\лабы\LP_8ADO.NET\lab8\lab8\bin\Debug\lab8.exe
+S:\Учеба\4 семестр\ООП\лабы\LP_8ADO.NET\lab8\lab8\bin\Debug\lab8.pdb
+S:\Учеба\4 семестр\ООП\лабы\LP_8ADO.NET\lab8\lab8\obj\Debug\lab8.csprojAssemblyReference.cache
+S:\Учеба\4 семестр\ООП\лабы\LP_8ADO.NET\lab8\lab8\obj\Debug\MainWindow.g.cs
+S:\Учеба\4 семестр\ООП\лабы\LP_8ADO.NET\lab8\lab8\obj\Debug\App.g.cs
+S:\Учеба\4 семестр\ООП\лабы\LP_8ADO.NET\lab8\lab8\obj\Debug\lab8_MarkupCompile.cache
+S:\Учеба\4 семестр\ООП\лабы\LP_8ADO.NET\lab8\lab8\obj\Debug\lab8_MarkupCompile.lref
+S:\Учеба\4 семестр\ООП\лабы\LP_8ADO.NET\lab8\lab8\obj\Debug\MainWindow.baml
+S:\Учеба\4 семестр\ООП\лабы\LP_8ADO.NET\lab8\lab8\obj\Debug\lab8.g.resources
+S:\Учеба\4 семестр\ООП\лабы\LP_8ADO.NET\lab8\lab8\obj\Debug\lab8.Properties.Resources.resources
+S:\Учеба\4 семестр\ООП\лабы\LP_8ADO.NET\lab8\lab8\obj\Debug\lab8.csproj.GenerateResource.cache
+S:\Учеба\4 семестр\ООП\лабы\LP_8ADO.NET\lab8\lab8\obj\Debug\lab8.csproj.CoreCompileInputs.cache
+S:\Учеба\4 семестр\ООП\лабы\LP_8ADO.NET\lab8\lab8\obj\Debug\lab8.exe
+S:\Учеба\4 семестр\ООП\лабы\LP_8ADO.NET\lab8\lab8\obj\Debug\lab8.pdb
+S:\Учеба\4 семестр\ООП\лабы\LP_8ADO.NET\lab8\lab8\bin\Debug\MaterialDesignColors.dll
+S:\Учеба\4 семестр\ООП\лабы\LP_8ADO.NET\lab8\lab8\bin\Debug\MaterialDesignThemes.Wpf.dll
+S:\Учеба\4 семестр\ООП\лабы\LP_8ADO.NET\lab8\lab8\bin\Debug\MaterialDesignThemes.Wpf.pdb
+S:\Учеба\4 семестр\ООП\лабы\LP_8ADO.NET\lab8\lab8\bin\Debug\MaterialDesignThemes.Wpf.xml
+S:\Учеба\4 семестр\ООП\лабы\LP_8ADO.NET\lab8\lab8\obj\Debug\App.baml
+S:\Учеба\4 семестр\ООП\лабы\LP_8ADO.NET\lab8\lab8\obj\Debug\lab8.csproj.CopyComplete
+D:\Учеба\4 семестр\ООП\лабы\LP_8ADO.NET\lab8\lab8\bin\Debug\lab8.exe.config
+D:\Учеба\4 семестр\ООП\лабы\LP_8ADO.NET\lab8\lab8\bin\Debug\lab8.exe
+D:\Учеба\4 семестр\ООП\лабы\LP_8ADO.NET\lab8\lab8\bin\Debug\lab8.pdb
+D:\Учеба\4 семестр\ООП\лабы\LP_8ADO.NET\lab8\lab8\bin\Debug\MaterialDesignColors.dll
+D:\Учеба\4 семестр\ООП\лабы\LP_8ADO.NET\lab8\lab8\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Учеба\4 семестр\ООП\лабы\LP_8ADO.NET\lab8\lab8\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Учеба\4 семестр\ООП\лабы\LP_8ADO.NET\lab8\lab8\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Учеба\4 семестр\ООП\лабы\LP_8ADO.NET\lab8\lab8\obj\Debug\lab8.csprojAssemblyReference.cache
+D:\Учеба\4 семестр\ООП\лабы\LP_8ADO.NET\lab8\lab8\obj\Debug\MainWindow.g.cs
+D:\Учеба\4 семестр\ООП\лабы\LP_8ADO.NET\lab8\lab8\obj\Debug\App.g.cs
+D:\Учеба\4 семестр\ООП\лабы\LP_8ADO.NET\lab8\lab8\obj\Debug\lab8_MarkupCompile.cache
+D:\Учеба\4 семестр\ООП\лабы\LP_8ADO.NET\lab8\lab8\obj\Debug\lab8_MarkupCompile.lref
+D:\Учеба\4 семестр\ООП\лабы\LP_8ADO.NET\lab8\lab8\obj\Debug\App.baml
+D:\Учеба\4 семестр\ООП\лабы\LP_8ADO.NET\lab8\lab8\obj\Debug\MainWindow.baml
+D:\Учеба\4 семестр\ООП\лабы\LP_8ADO.NET\lab8\lab8\obj\Debug\lab8.g.resources
+D:\Учеба\4 семестр\ООП\лабы\LP_8ADO.NET\lab8\lab8\obj\Debug\lab8.Properties.Resources.resources
+D:\Учеба\4 семестр\ООП\лабы\LP_8ADO.NET\lab8\lab8\obj\Debug\lab8.csproj.GenerateResource.cache
+D:\Учеба\4 семестр\ООП\лабы\LP_8ADO.NET\lab8\lab8\obj\Debug\lab8.csproj.CoreCompileInputs.cache
+D:\Учеба\4 семестр\ООП\лабы\LP_8ADO.NET\lab8\lab8\obj\Debug\lab8.csproj.CopyComplete
+D:\Учеба\4 семестр\ООП\лабы\LP_8ADO.NET\lab8\lab8\obj\Debug\lab8.exe
+D:\Учеба\4 семестр\ООП\лабы\LP_8ADO.NET\lab8\lab8\obj\Debug\lab8.pdb
+D:\studing\6 sem\BD\Новая папка\lab8\lab8\bin\Debug\lab8.exe.config
+D:\studing\6 sem\BD\Новая папка\lab8\lab8\bin\Debug\lab8.exe
+D:\studing\6 sem\BD\Новая папка\lab8\lab8\bin\Debug\lab8.pdb
+D:\studing\6 sem\BD\Новая папка\lab8\lab8\bin\Debug\MaterialDesignColors.dll
+D:\studing\6 sem\BD\Новая папка\lab8\lab8\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\studing\6 sem\BD\Новая папка\lab8\lab8\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\studing\6 sem\BD\Новая папка\lab8\lab8\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\studing\6 sem\BD\Новая папка\lab8\lab8\obj\Debug\lab8.csprojAssemblyReference.cache
+D:\studing\6 sem\BD\Новая папка\lab8\lab8\obj\Debug\MainWindow.g.cs
+D:\studing\6 sem\BD\Новая папка\lab8\lab8\obj\Debug\App.g.cs
+D:\studing\6 sem\BD\Новая папка\lab8\lab8\obj\Debug\lab8_MarkupCompile.cache
+D:\studing\6 sem\BD\Новая папка\lab8\lab8\obj\Debug\lab8_MarkupCompile.lref
+D:\studing\6 sem\BD\Новая папка\lab8\lab8\obj\Debug\App.baml
+D:\studing\6 sem\BD\Новая папка\lab8\lab8\obj\Debug\MainWindow.baml
+D:\studing\6 sem\BD\Новая папка\lab8\lab8\obj\Debug\lab8.g.resources
+D:\studing\6 sem\BD\Новая папка\lab8\lab8\obj\Debug\lab8.Properties.Resources.resources
+D:\studing\6 sem\BD\Новая папка\lab8\lab8\obj\Debug\lab8.csproj.GenerateResource.cache
+D:\studing\6 sem\BD\Новая папка\lab8\lab8\obj\Debug\lab8.csproj.CopyComplete
+D:\studing\6 sem\BD\Новая папка\lab8\lab8\obj\Debug\lab8.exe
+D:\studing\6 sem\BD\Новая папка\lab8\lab8\obj\Debug\lab8.pdb

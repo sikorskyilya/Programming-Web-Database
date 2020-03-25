@@ -1,0 +1,5 @@
+D:\Univer\sem6\database\labs\laba3\laba3_1\bin\Debug\laba3_1.dll
+D:\Univer\sem6\database\labs\laba3\laba3_1\bin\Debug\laba3_1.pdb
+D:\Univer\sem6\database\labs\laba3\laba3_1\obj\Debug\laba3_1.csprojAssemblyReference.cache
+D:\Univer\sem6\database\labs\laba3\laba3_1\obj\Debug\laba3_1.dll
+D:\Univer\sem6\database\labs\laba3\laba3_1\obj\Debug\laba3_1.pdb
